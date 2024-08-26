@@ -17,6 +17,6 @@ This repository contains backup files only and is not intended for development o
 
 ## Contact
 
-For more information or if you have any questions regarding the backups, please contact us at [info@stpaulsanglican.bc.ca](mailto:info@stpaulsanglican.bc.ca).
+For more information or if you have any questions regarding the backups, please contact us at [office@stpaulsanglican.bc.ca](mailto:office@stpaulsanglican.bc.ca).
 
 Thank you for respecting the purpose of this repository.
