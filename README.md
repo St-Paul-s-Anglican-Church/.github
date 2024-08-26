@@ -8,7 +8,7 @@ This repository is not intended for public contributions or development. It is u
 
 ## Backup Details
 
-- **Frequency**: Backups are scheduled on a monthly basis.
+- **Frequency**: Backups are scheduled whenever we make changes.
 - **Content**: Includes HTML, CSS, and JavaScript files.
 
 ## Disclaimer
